@@ -1,0 +1,9 @@
+"Gon", "Freecss", "912-405-1998", "gon.freecss@hxh.com"
+
+"Killua", "Zoldyck", "912-099-1998", "killua.Zoldyck@hxh.com"
+
+"Kurapika", "Kurta", "912-404-1998", "scarleteyes@hxh.com"
+
+"Leorio", "Paradinight", "912-403-1998", "leoriodrip@hxh.com"
+
+"Hisoka", "Morow", "912-044-1998", "bungeegum@hxh.com"
